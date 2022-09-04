@@ -30,3 +30,4 @@
 - [Vanessa Mwaniki](https://github.com/vanessamwaniki)
 - [Raymond Nartey](https://github.com/ray-nart)
 - [Nestor Abiangang](https://github.com/martourez21)
+- [Mehelo Mbialeu Brice Dimitri](https://github.com/lovehope5)
